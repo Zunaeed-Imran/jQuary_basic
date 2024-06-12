@@ -1,0 +1,1 @@
+$('a').attr('href', 'https://laravel.com/docs/11.x');

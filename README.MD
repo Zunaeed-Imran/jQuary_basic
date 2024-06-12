@@ -3,4 +3,6 @@
 
 ## In folder what we learn.
 - html_selector -> miltiple id select form js file by jquery.
+- attribute -> change the link by using jquery.
+- CSS_style -> change css style form jquery.
 - 
